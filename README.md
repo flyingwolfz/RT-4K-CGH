@@ -1,5 +1,15 @@
 # RT-4K-CGH
 
+
+<p align="center">
+ <img src="https://github.com/flyingwolfz/flyingwolfz/blob/main/rt-4k-cgh.png" alt="1920" width='50%' height='50%'/>
+</p>
+
+**<p align="center">
+Real-time 4K CGH,paper:**
+</p>
+
+
 ## environment set up
 
 The environment is the same as https://github.com/flyingwolfz/CCNN-CGH/tree/main
