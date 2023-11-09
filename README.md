@@ -6,7 +6,7 @@
 </p>
 
 **<p align="center">
-Real-time 4K CGH,paper:**
+Real-time 4K CGH,paper:https://www.nature.com/articles/s41598-023-46575-1**
 </p>
 
 
